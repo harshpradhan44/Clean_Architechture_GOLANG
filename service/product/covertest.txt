@@ -1,0 +1,7 @@
+mode: set
+Clean_go/service/product/service.go:14.56,16.2 1 1
+Clean_go/service/product/service.go:18.71,20.13 2 1
+Clean_go/service/product/service.go:24.2,25.12 2 1
+Clean_go/service/product/service.go:28.2,32.16 5 1
+Clean_go/service/product/service.go:20.13,22.3 1 1
+Clean_go/service/product/service.go:25.12,27.3 1 0

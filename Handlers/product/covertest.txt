@@ -1,0 +1,10 @@
+mode: set
+Clean_go/Handlers/product/handler.go:21.61,24.12 3 0
+Clean_go/Handlers/product/handler.go:30.2,31.13 2 0
+Clean_go/Handlers/product/handler.go:35.2,35.32 1 0
+Clean_go/Handlers/product/handler.go:24.12,28.3 3 0
+Clean_go/Handlers/product/handler.go:31.13,34.3 2 0
+Clean_go/Handlers/product/handler.go:38.64,42.13 4 0
+Clean_go/Handlers/product/handler.go:47.2,48.14 2 0
+Clean_go/Handlers/product/handler.go:42.13,45.3 2 0
+Clean_go/Handlers/product/handler.go:48.14,50.3 1 0
